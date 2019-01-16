@@ -1,0 +1,64 @@
+.topPage {
+  background-color: #ECE493;
+}
+.bottomPage {
+  background-color: #84A1BE;
+  text-align: center;
+  height: 90%;
+}
+
+.content img {
+  width: 72px;
+  height: 72px;
+  border-radius: 100%;
+}
+
+.topPage .myAvatar {
+  width: 72px;
+  height: 72px;
+  border-radius: 100%;
+}
+
+.imageBackdrop {
+  width: 100%;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+h2, h3, h4 {
+  font-family: 'Proza Libre', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+.myInfo{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.myGravitar{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.myForm{
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mySubscribeForm{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+hr{
+  width: 7%;
+}
